@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@Acelandro**
 - 👀 Eu estou interessando em aprender algo que eu acho interesante.
-- 🌱 Eu estou aprendendo varias coisas.
+- 🌱 Eu estou aprendendo varias coisas, como scratch e javascript
 -    Eu gosto de ler mangás e animes, mas não me connsidero Otaku.
 -    Eu sou um apreciador da cultura Japonesa e Coreana.  
