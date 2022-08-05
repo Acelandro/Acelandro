@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @Acelandro
-- 👀 I’m interested in  aprender algo que eu acho interesante.
-- 🌱 I’m currently learning varias coisas.
+- 👋 Hi, I’m **@Acelandro**
+- 👀 Eu estou interessando em aprender algo que eu acho interesante.
+- 🌱 Eu estou aprendendo varias coisas.
+-    Eu gosto de ler mangás e animes, mas não me connsidero Otaku.
+-    Eu sou um apreciador da cultura Japonesa e Coreana.  
